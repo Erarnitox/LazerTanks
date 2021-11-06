@@ -7,7 +7,8 @@ The sole purpose of this game is a demonstration
 of how use OOP paradigms to structure a program in pure C
 
 ## Install
-´´´
+
+´´´sh
 git clone https://github.com/Erarnitox/LazerTanks
 cd LazerTanks
 make
